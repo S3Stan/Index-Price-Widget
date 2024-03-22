@@ -1,4 +1,9 @@
 # import 
 import tkinter as tk
+from tkinter import ttk
 import requests
-import customtkinter as custKint
+import customtkinter
+
+
+#tab code
+
